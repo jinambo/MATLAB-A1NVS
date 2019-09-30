@@ -1,0 +1,11 @@
+function jeMatice(c)
+
+r = size(c);
+
+if(r(1) >= 2 && r(2) > 1) 
+    disp('je matice');
+else 
+    disp('neni matice');
+
+end
+
