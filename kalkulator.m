@@ -188,5 +188,3 @@ end
 
 set(handles.edit3, 'String', num2str(c3));
     
-        
-        
