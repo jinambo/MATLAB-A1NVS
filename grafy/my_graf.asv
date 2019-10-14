@@ -1,0 +1,12 @@
+% fce y
+x=0:pi/30:3*pi; 
+plot(4, sin(x*2),'-.r*') 
+
+figure
+
+% fce y2
+
+
+
+
+
