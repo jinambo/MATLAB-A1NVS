@@ -1,7 +1,7 @@
-x = 0:pi/30:3*pi; 
+x = 0 : pi/30 : 3*pi; 
 
 % fce y
-plot(x, 4*sin(x*2),'--b') ;
+plot(x, 4*sin(x*2),'--b');
 
 hold on
 
