@@ -1,0 +1,4 @@
+Dialog regrese
+
+Vytvoøte dialog ve kterém budou osy a tlaèítka, listbox a editaèní okno. Pøes tlaèítko uživatel naète data k regresi, která se zobrazí jako body v osách tohoto dialogu. V popupenu si uživatel vybere, zda chce polynomiální, lineární, exponenciální regresi nebo vlastní model. Po vybrání položky se objeví v editaèním oknì model regrese, kterú uživatel bude moct zeditovat. Po kliku na tlaèítko Regrese pak provede program regresi a vykreslí k bodùm regresní køivku, vypíše rovnici regrese a koeficient korelace.
+
